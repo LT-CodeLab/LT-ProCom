@@ -4,4 +4,5 @@ You will find all questions from the ProCom competitions that we have attended, 
 
 Current iteration will only include the java files, but will also include the python files in future iterations of the repository.
 
-When you are adding a solution, label your solutions as <Problem #><Your Name>.java
+When you are adding a solution, label your solutions as /problem number/_/your name/_/solution.java
+ex: 2_Berg_solution.java
